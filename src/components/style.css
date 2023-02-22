@@ -1,0 +1,26 @@
+.product{
+    height:600px;
+    width: 760px;
+    border: 1px solid black;
+    position: relative;
+    left:400px;
+    top:50px;
+    background-color: rgb(244, 229, 208);
+}
+.inputBox{
+    height:30px;
+    width: 300px;
+    /* margin-top: 10px;
+     */
+} 
+.appButton{
+    height:40px;
+    width: 300px;
+    margin-top:2px;
+    background-color: rgb(167, 247, 167);
+}
+.err{
+    color: red;
+    margin-left: 5px;
+    padding: 0px;
+}
